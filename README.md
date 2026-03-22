@@ -12,7 +12,7 @@
 
 ## 学习地图（7层计算机架构）
 
-（在这里以后可以插入 Obsidian Canvas 截图）
+<image-card alt="GitHub 下载安装流程图" src="./github下载安装流程图.png" ></image-card>
 
 1. 硬件层  
 2. 系统调用 & 驱动层  
@@ -33,3 +33,4 @@
 
 **更新日期**：2026.03.21  
 **累计学习天数**：2天
+在 README 中显示 Canvas 图
